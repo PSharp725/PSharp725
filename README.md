@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Patrick
-- I’m interested in data science, ML, and bioinformatics! 
+- I’m interested in data science and ML

@@ -5,9 +5,8 @@ I'm a passionate software developer with a love for creating innovative solution
 
 ## Skills
 - **Languages**: Python, C/C++, JavaScript, TypeScript
-- **Databases**: MySQL, mariaDB, SQLite
+- **Databases**: MySQL, MariaDB, SQLite
 - **Tools**: Git
-- **Other**: Agile methodologies, Test-driven development (TDD), Continuous Integration/Continuous Deployment (CI/CD)
 
 ## Projects
 ### [Project 1: Temp Holding space](https://github.com/PSharp725/)

@@ -1,10 +1,10 @@
 # Hello, I'm Patrick! 👋
 
 ## About Me
-I'm a passionate software developer with a love for creating innovative solutions and exploring new technologies.
+As a Data Science Associate, I'm eager to expand my knowledge in all things data and software-related, continuously learning and refining my skills. 
 
 ## Skills
-- **Languages**: Python, C/C++, JavaScript, TypeScript
+- **Languages**: Python, C/C++
 - **Databases**: MySQL, MariaDB, SQLite
 - **Tools**: Git
 
